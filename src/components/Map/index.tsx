@@ -30,7 +30,7 @@ const Map = ({ places }: MapProps) => (
       return (
         <Marker
           key={`place-${id}`}
-          position={[longitude, latitude]}
+          position={[latitude, longitude]}
           title={name}
         />
       )
