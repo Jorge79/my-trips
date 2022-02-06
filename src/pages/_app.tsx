@@ -19,6 +19,10 @@ function App({ Component, pageProps }: AppProps) {
           integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
           crossOrigin=""
         />
+        <meta
+          name="google-site-verification"
+          content="1m7zr4SOCgFC3s2T6ygK_sqUyS-T453NeUJGaIKtr0E"
+        />
         <meta name="theme-color" content="#06092b" />
         <meta
           name="description"
