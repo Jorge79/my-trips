@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "postbuild": "next-sitemap",
     "start": "next start",
     "test": "jest",
     "test:watch": "yarn test --watch",
@@ -25,6 +26,7 @@
     "next": "12.0.9",
     "next-pwa": "^5.4.4",
     "next-seo": "^5.1.0",
+    "next-sitemap": "^2.1.9",
     "nextjs-progressbar": "^0.0.13",
     "react": "17.0.2",
     "react-dom": "17.0.2",
