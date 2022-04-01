@@ -1,14 +1,14 @@
 ## My Trips
 
 > A simple website to show pinned places that you went or you want to go
-> To see it in production access: my-trips-woad.vercel.app
+
+To see it in production access: [my-trips-woad.vercel.app](my-trips-woad.vercel.app)
 
 ## NextJs na Prática
 
 This project is part of a course called [NextJS na Prática](https://nextjs.willianjusten.com.br/).
 
-## Getting Started
-### Creating your own version
+## Getting Started (Creating your own version)
 
 ### GraphCMS
 
