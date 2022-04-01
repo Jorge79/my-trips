@@ -51,7 +51,7 @@ $ git clone https://github.com/Jorge79/my-trips.git
 # Choose the directory:
 $ cd my-trips
 
-Install the dependencies:
+# Install the dependencies:
 $ yarn
 ```
 
