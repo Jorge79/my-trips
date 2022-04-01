@@ -45,9 +45,14 @@ the `.env.example` to `.env.local` (if you plan to run locally) and edit the key
 With all set, you can start the application with:
 
 ```bash
-npm run dev
-# or
-yarn dev
+# Clone the repository to you machine:
+$ git clone https://github.com/Jorge79/my-trips.git
+
+# Choose the directory
+$ cd my-trips
+
+Install the dependencies
+$ yarn
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
