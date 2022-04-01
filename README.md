@@ -2,7 +2,7 @@
 
 > A simple website to show pinned places that you went or you want to go
 
-To see it in production access: [my-trips-woad.vercel.app](my-trips-woad.vercel.app)
+To see it in production access: [my-trips-woad.vercel.app](http://my-trips-woad.vercel.app)
 
 ## NextJs na Prática
 
