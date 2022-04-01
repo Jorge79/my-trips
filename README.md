@@ -48,10 +48,10 @@ With all set, you can start the application with:
 # Clone the repository to you machine:
 $ git clone https://github.com/Jorge79/my-trips.git
 
-# Choose the directory
+# Choose the directory:
 $ cd my-trips
 
-Install the dependencies
+Install the dependencies:
 $ yarn
 ```
 
