@@ -39,8 +39,8 @@ create a Token Name and mark all queries possible. Save and get the token.
 
 ### NextJS
 
-After creating your account on [GraphCMS](https://graphcms.com/) and following the steps above, you just need to rename
-the `.env.example` to `.env.local` (if you plan to run locally) and edit the keys there.
+After creating your account on [GraphCMS](https://graphcms.com/) and following the steps above, you just need to create
+the `.env.local` file (if you plan to run locally) and edit the keys there.
 
 With all set, you can start the application with:
 
