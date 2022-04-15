@@ -3,6 +3,11 @@
 > A simple website to show pinned places that you went or you want to go
 
 To see it in production access: [my-trips-woad.vercel.app](http://my-trips-woad.vercel.app)
+<div style="display=flex; text-align:center;">
+  <img src="public/img/about.png" alt="about image" style="width:49%;"/>
+  <img src="public/img/city.png" alt="city's image" style="width:49%;"/>
+  <img src="public/img/schema.png" alt="schema's image" style="width:60%;"/>
+</div>
 
 ## NextJs na Prática
 
